@@ -1,6 +1,6 @@
 public class Car {
-    protected String brand;
-    protected String model;
+    private  String brand;
+    private  String model;
     private static int numCars = 0;
 
     public Car(String brand, String model) {
